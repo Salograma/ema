@@ -7,3 +7,6 @@ Entonces, traté de hacer una especie de "juego" de cero. Correr con node, segur
 
 #### Hasheo
 Este es el intento de solución de un problema de cadena cíclica. Pero no me salió. Meh.
+
+#### Trabajo práctico de Simulación
+Self-explainatory.
