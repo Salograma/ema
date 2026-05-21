@@ -7,3 +7,15 @@ Entonces, traté de hacer una especie de "juego" de cero. Correr con node, segur
 
 #### Hasheo
 Este es el intento de solución de un problema de cadena cíclica. Pero no me salió. Meh.
+
+#### Trabajo práctico de Simulación
+Self-explainatory.
+
+| Col1 | Col2 | Col3 |
+|:---:|:---:|:---:|
+|Fila1|Fila1|Fila1|
+|Fila2|Fila2|Fila2|
+|Fila3|Fila3|Fila3
+
+> No cuentes los días, deja que los días cuenten
+### Albert Einstein
