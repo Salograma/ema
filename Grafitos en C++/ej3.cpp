@@ -24,7 +24,7 @@ void bfs(int inicio){
 }
 
 void dfs(int nodo){
-    visitado[nodo] = true;
+    visitado[nodo] = true; /*Si no visité a mi vecino, lo sigo vistiando. Eso hace que me extienda por una rama del vecino, para que vuelva en el árbol de recursión a mi siguiente vecino.*/
     cout << nodo << "";
     for(int vecino: adj[nodo]){
         if(!visitado[vecino]){
